@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/analyze",
+      "destination": "https://resumeai-hsud.onrender.com/analyze"
+    }
+  ]
+}
